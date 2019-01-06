@@ -1,2 +1,2 @@
 # lobaha
-HAProxy to Load Balancing via Vagrant
+Load Balancing HAproxy
