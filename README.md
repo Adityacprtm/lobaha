@@ -4,7 +4,15 @@ Load Balancing HAproxy Ubuntu 14.04 (trusty64) via Vagrant
 ## Requirement
 - Vagrant
 - VirtualBox
+
+## Specification
+### OS
+- Ubuntu 14.04
+### Installed
 - HAProxy
+- curl
+- Aache Web Server
+- PHP5
 
 ## Installation
 Clone this repository
